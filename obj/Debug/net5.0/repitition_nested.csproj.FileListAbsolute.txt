@@ -1,0 +1,16 @@
+C:\Users\PSoji\Documents\GitHub\repitition_nested\obj\Debug\net5.0\repitition_nested.csprojAssemblyReference.cache
+C:\Users\PSoji\Documents\GitHub\repitition_nested\obj\Debug\net5.0\repitition_nested.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSoji\Documents\GitHub\repitition_nested\obj\Debug\net5.0\repitition_nested.AssemblyInfoInputs.cache
+C:\Users\PSoji\Documents\GitHub\repitition_nested\obj\Debug\net5.0\repitition_nested.AssemblyInfo.cs
+C:\Users\PSoji\Documents\GitHub\repitition_nested\obj\Debug\net5.0\repitition_nested.csproj.CoreCompileInputs.cache
+C:\Users\PSoji\Documents\GitHub\repitition_nested\bin\Debug\net5.0\repitition_nested.exe
+C:\Users\PSoji\Documents\GitHub\repitition_nested\bin\Debug\net5.0\repitition_nested.deps.json
+C:\Users\PSoji\Documents\GitHub\repitition_nested\bin\Debug\net5.0\repitition_nested.runtimeconfig.json
+C:\Users\PSoji\Documents\GitHub\repitition_nested\bin\Debug\net5.0\repitition_nested.runtimeconfig.dev.json
+C:\Users\PSoji\Documents\GitHub\repitition_nested\bin\Debug\net5.0\repitition_nested.dll
+C:\Users\PSoji\Documents\GitHub\repitition_nested\bin\Debug\net5.0\ref\repitition_nested.dll
+C:\Users\PSoji\Documents\GitHub\repitition_nested\bin\Debug\net5.0\repitition_nested.pdb
+C:\Users\PSoji\Documents\GitHub\repitition_nested\obj\Debug\net5.0\repitition_nested.dll
+C:\Users\PSoji\Documents\GitHub\repitition_nested\obj\Debug\net5.0\ref\repitition_nested.dll
+C:\Users\PSoji\Documents\GitHub\repitition_nested\obj\Debug\net5.0\repitition_nested.pdb
+C:\Users\PSoji\Documents\GitHub\repitition_nested\obj\Debug\net5.0\repitition_nested.genruntimeconfig.cache
